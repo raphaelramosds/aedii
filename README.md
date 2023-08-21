@@ -2,7 +2,7 @@
 
 ## Author
 
-I am Raphael Ramos da Silva, a web technician and undergraduating student at Federal University of Rio Grande do Norte.
+I am Raphael Ramos da Silva, a web system developer technician and undergraduating student at Federal University of Rio Grande do Norte.
 
 ## About this repository
 
