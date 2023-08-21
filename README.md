@@ -12,6 +12,8 @@ This is a repository for tracking assignments from the Algorithms and Data Struc
 
 ## Weeks
 
+This course is organized in weeks. There is an assigment for each week.
+
 ### Week 1
 
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_01/Week_01.pdf) **Course Outline:** Provides an overview of the course structure and topics covered.
