@@ -1,6 +1,10 @@
 # Algorithms and Data Structure II
 
-## About
+## Author
+
+I am Raphael Ramos da Silva, a web technician and undergraduating student at Federal University of Rio Grande do Norte.
+
+## About this repository
 
 This is a repository for tracking assignments from the Algorithms and Data Structures II course, offered by the Department of Computer Engineering and Automation (DCA) of the Technology Center (CT) at the Federal University of Rio Grande do Norte (UFRN).
 
