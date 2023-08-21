@@ -1,2 +1,9 @@
-# aedii
-This repository contains all projects built during the Algorithms and Data Structures II course
+# Algorithms and Data Structure II
+
+## About
+
+This is a repository for tracking assignments from the Algorithms and Data Structures II course, offered by the Department of Computer Engineering and Automation (DCA) of the Technology Center (CT) at the Federal University of Rio Grande do Norte (UFRN).
+
+> The DCA aims to train professionals capable of designing and developing computer systems for industrial automation, embedded systems, software systems, distributed systems, computer networks, and information systems. The CT offers undergraduate and graduate courses in Engineering. This course is part of the curriculum of the Computer Engineering program at DCA/UFRN.
+
+
