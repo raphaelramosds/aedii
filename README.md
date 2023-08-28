@@ -29,4 +29,11 @@ This course is organized in weeks. There is an assigment for each week.
     - Feel free to explore these resources and engage with the course material. If you have any questions or need assistance, please don't hesitate to reach out.
     - Happy coding! 💻🚀
 
+### Week 2
 
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/week_02.pdf) **Review:** topics covered include Recursion, Binary Search Trees (BST), and AVL Trees.
+- 🎯 Week Goals 
+    - Your main goal for this week is related to following subjects: recursion, binary and avl trees. By the conclusion, you'll have the ability to distinguish between iteration and recursion, learn how to construct and query datasets using Binary Search Trees (BST) and get acquaninted with AVL trees.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Recursion.ipynb) **Recursion**: dive into recursion and explore the implementation and analysis of the Merge Sort algorithm.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/Binary_Trees.ipynb) **Binary Trees**: build and analyze the performance of a Binary Search Tree.
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_02/avl.ipynb) **AVL Trees**: learn the mechanics behind AVL trees, self-balancing binary search trees, and their implementation.
