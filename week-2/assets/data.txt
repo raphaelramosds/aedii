@@ -1,5 +1,0 @@
-Neste exemplo, as palavras de parada estão definidas para o idioma português. Certifique-se de ajustar o idioma e as palavras de parada conforme necessário.
-
-Lembre-se de substituir "caminho/do/seu/arquivo.txt" pelo caminho real do seu arquivo de entrada e "caminho/do/arquivo/processado.txt" pelo caminho onde você deseja salvar o arquivo processado.
-
-Certifique-se também de ter a biblioteca nltk instalada. Se não tiver, você pode instalar executando pip install nltk no seu terminal.

@@ -1,1 +1,0 @@
-neste exemplo palavras parada definidas idioma português certifiquese ajustar idioma palavras parada conforme necessário lembrese substituir caminhodoseuarquivotxt caminho real arquivo entrada caminhodoarquivoprocessadotxt caminho onde deseja salvar arquivo processado certifiquese ter biblioteca nltk instalada pode instalar executando pip install nltk terminal
