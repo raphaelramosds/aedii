@@ -40,6 +40,6 @@ This course is organized in weeks. There is an assigment for each week.
 
 #### Assignment
 
-[1] [Week 2 - Assignment (Code solution)](https://github.com/raphaelramosds/aedii/tree/main/week-2)
+[1] [Week 2 - Assignment (Video explanation)](https://drive.google.com/file/d/15egepXTmXVN1MoWfwJCxn4mJB1PiDeSu/view)
 
-[2] [Week 2 - Assignment (Video explanation)](https://drive.google.com/file/d/15egepXTmXVN1MoWfwJCxn4mJB1PiDeSu/view)
+[2] [Week 2 - Assignment (Code solution)](https://github.com/raphaelramosds/aedii/tree/main/week-2)
