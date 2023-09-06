@@ -44,7 +44,7 @@ This course is organized in weeks. There is an assigment for each week.
 
 [2] [Week 2 - Assignment (Code solution)](https://github.com/raphaelramosds/aedii/tree/main/week-2)
 
-**Week 03**
+### Week 3
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_03/Complexity_of_Algorithms_Part_I.pdf) **Complexity of Algorithms I:** Fundamentals and notations, time and space complexity.
     - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_03/Exercise_Complexity_of_Algorithms_Part_I.pdf)  **How to Calculate the Complexity of the Most Common Use Cases Algorithms**: Linear, quadratic, and constant complexity.
         - Fundamentals of Algorithms Complexity I [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272)
