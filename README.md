@@ -72,7 +72,7 @@ This course is organized in weeks. There is an assigment for each week.
 
 #### Assignment
 
-[1] [Week 4 - Assignment (Video explanation)](https://drive.google.com/file/d/1GGTUWQMcPD8CJfu_ov0SlBe0Baoyh2CA/view)
+[1] [Week 4 - Assignment (Video explanation)](https://drive.google.com/file/d/1B8WtNKd16PB-R3oTwOQE09hnWp4J_32b/view)
 
 [2] [Week 4 - Assignment (Code solution)](./week-4/Week%204%20-%20Assignment.ipynb)
 
