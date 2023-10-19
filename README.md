@@ -89,3 +89,14 @@ This course is organized in weeks. There is an assigment for each week.
     - :hourglass_flowing_sand: Estimated time: 2h
 - 🛠 **Hands on**
     - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb)
+
+#### Assignment
+
+This project was developed by [Ernane Ferreira](https://github.com/ErnaneJ)
+and [Raphael Ramos](https://github.com/raphaelramosds)
+
+[1] [Week 5 - Assignment (Video explanation)](https://www.youtube.com/watch?v=3fe1YdIM-Q4)
+
+[2] [Week 5 - Assignment (Code solution)](./week-5/Week%205%20-%20Assignment.ipynb)
+
+[3] [Week 5 - Assignment (Results explanation)](./week-5/README.md)

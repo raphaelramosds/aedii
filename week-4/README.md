@@ -1,7 +1,7 @@
 
 # Results explanation
 
-Here you can find explanation Week 4 assignment project's results
+Here you can find explanations of Week 4 assignment project's results
 
 ## Query 1 (Q1)
 
