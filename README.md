@@ -92,7 +92,7 @@ This course is organized in weeks. There is an assigment for each week.
 
 #### Assignment
 
-This project was developed by [Ernane Ferreira](https://github.com/ErnaneJ)
+The assignment of this week was developed by [Ernane Ferreira](https://github.com/ErnaneJ)
 and [Raphael Ramos](https://github.com/raphaelramosds)
 
 [1] [Week 5 - Assignment (Video explanation)](https://www.youtube.com/watch?v=3fe1YdIM-Q4)
