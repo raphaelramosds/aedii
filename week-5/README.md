@@ -40,7 +40,7 @@ On the Probability Distribution Function (PDF), it's clear how balanced is the a
 
 ## Task 3
 
-The bipartite graph shows that some attributes are less relevant to improve by the boosts than others, since their out degree are low. 
+The bipartite graph shows that some attributes are less relevant to improve by the boosts than others, since their out degree are low. Also, we can easily identify the boosts with small contribution on the attributes by the weight of its edges. For instance, it's clear that Hex has larger contributions than Warrior, since its edges are thicker.
 
 ## Task 4
 
