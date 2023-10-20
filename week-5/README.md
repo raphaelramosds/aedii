@@ -55,4 +55,4 @@ Therefore, by this metrics, we conclude that the setup
 - Suspension Horizon
 - Engine Cloudroar	
 
-boosted with Vice and Taurus, conducted by the drivers Lando Norris and Max Verstappen, are the best choosen in order to prioritize speed, cornering, power unit and reliability 
+boosted with Vice and Taurus, conducted by the drivers Lando Norris and Max Verstappen, are the best choosen in order to prioritize speed, cornering, power unit and reliability.
