@@ -95,7 +95,7 @@ This course is organized in weeks. There is an assigment for each week.
 The assignment of this week was developed by [Ernane Ferreira](https://github.com/ErnaneJ)
 and [Raphael Ramos](https://github.com/raphaelramosds)
 
-[1] [Week 5 - Assignment (Video explanation)](https://www.youtube.com/watch?v=3fe1YdIM-Q4)
+[1] [Week 5 - Assignment (Video explanation)](https://drive.google.com/file/d/1q58a7MV7q7j5HUq7IcVU9Hwh14xR9fKk/view?usp=share_link)
 
 [2] [Week 5 - Assignment (Code solution)](./week-5/Week%205%20-%20Assignment.ipynb)
 
