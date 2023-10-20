@@ -90,13 +90,17 @@ This course is organized in weeks. There is an assigment for each week.
 - 🛠 **Hands on**
     - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb)
 
+
+**Week 06**
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/F1Clash.pdf) **Project**: [F1 Clash](https://www.hutch.io/our-games/f1-clash/) on Graph
+
 #### Assignment
 
 The assignment of this week was developed by [Ernane Ferreira](https://github.com/ErnaneJ)
 and [Raphael Ramos](https://github.com/raphaelramosds)
 
-[1] [Week 5 - Assignment (Video explanation)](https://drive.google.com/file/d/1q58a7MV7q7j5HUq7IcVU9Hwh14xR9fKk/view?usp=share_link)
+[1] [Week 6 - Assignment (Video explanation)](https://drive.google.com/file/d/1q58a7MV7q7j5HUq7IcVU9Hwh14xR9fKk/view?usp=share_link)
 
-[2] [Week 5 - Assignment (Code solution)](./week-5/Week%205%20-%20Assignment.ipynb)
+[2] [Week 6 - Assignment (Code solution)](./week-6/Week%206%20-%20Assignment.ipynb)
 
-[3] [Week 5 - Assignment (Results explanation)](./week-5/README.md)
+[3] [Week 6 - Assignment (Results explanation)](./week-6/README.md)
