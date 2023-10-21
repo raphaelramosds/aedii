@@ -91,7 +91,7 @@ This course is organized in weeks. There is an assigment for each week.
     - Network elements using networkx [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/tree/main/lessons/week_05/[NetworkX]_Network_Elements.ipynb)
 
 
-## Week 6
+### Week 6
 - [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_06/F1Clash.pdf) **Project**: [F1 Clash](https://www.hutch.io/our-games/f1-clash/) on Graph
 
 #### Assignment
@@ -104,3 +104,15 @@ and [Raphael Ramos](https://github.com/raphaelramosds)
 [2] [Week 6 - Assignment (Code solution)](./week-6/Week%206%20-%20Assignment.ipynb)
 
 [3] [Week 6 - Assignment (Results explanation)](./week-6/README.md)
+
+### Week 7
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Small_Worlds.pdf) **Small Worlds**: Homiphily and Assortativity
+    - Assortativity [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7a3a7eaae9e44647964d178fb1c4ba11) 
+    - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/Assortativity.ipynb) **Hands on assortativity**
+     - [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_07/NetworkX.ipynb) **The art of seeing networks**
+
+### Week 8
+- [![Open in PDF](https://img.shields.io/badge/-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Small_Worlds_II.pdf) **Small Worlds Cont.**: Paths, Distances, Connected Components, Clustering Coefficient, Social Distance and Six Degrees of Separation
+    - Paths, Walks and Distances [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/2d92497357d54494b1b03990a23abd83) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Walks%2C_Paths_and_Distances.ipynb)
+    - Connected Components [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/f573b053f65f43909cdc64cfe72ce5b9) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Connected_Components.ipynb)
+    - Clustering Coefficient [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/1880f8dbf5864104a011bba8bc767121) [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://github.com/ivanovitchm/datastructure/blob/main/lessons/week_08/Clustering_Coefficient.ipynb)
