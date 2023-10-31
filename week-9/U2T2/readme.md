@@ -46,7 +46,7 @@ Grafo direcionado que descreve o processo de eleição de administradores na Wik
 
 - [![Requisito 3](https://img.shields.io/badge/-Diretório-191A1B?style=flat-square&logo=files)](./Requisito_03/) Implementação do Requisito 3
 
-- [![Video](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://www.loom.com/share/7e98eecbee0e48c1b94df1a3d1d16272) Explicação geral
+- [![Video](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://drive.google.com/file/d/1yPoJuNBMYfcd2FwcHzr1hhuW77Rc8kif/view?usp=drive_link) Explicação geral
 
 ## Referências
 
