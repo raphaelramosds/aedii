@@ -22,10 +22,35 @@ relacionadas ao critério de comunidade e o tamanho do vértice a métrica in-de
 
 ## Requisito 1
 
+Ernane vai explicar tudo direitinho
+
+![Network](./assets/imgs/network.png)
+
 ## Requisito 2
+
+Ernane vai explicar tudo direitinho
+
+![Centralities](./assets/imgs/centralities.png)
 
 ## Requisito 3
 
+Ernane vai explicar tudo direitinho
+
+![PDF e CDF](./assets/imgs/cdf-pdf.png)
+
 ## Requisito 4
 
+Ernane vai explicar tudo direitinho
+
+![K-core e K-shell](./assets/imgs/layers.png)
+
 ## Requisito 5
+
+Ernane vai explicar tudo direitinho
+
+- https://raphaelramosds.github.io/netdeploy/
+
+## Artefatos
+
+- Implementações
+- Vídeo
