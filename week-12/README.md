@@ -39,7 +39,7 @@ Nessa representação, os nós são páginas do Wikipedia e as arestas são os l
 
 Ernane vai explicar tudo direitinho
 
-> O algoritmo utilizado para montar a layout das redes abaixo foi o OpenOrd. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu
+> O algoritmo utilizado para montar a layout das redes abaixo foi o OpenOrd. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu, em comparação a representação apresentada no Requisito 1
 
 ![Centralities](./assets/imgs/centralities.png)
 
