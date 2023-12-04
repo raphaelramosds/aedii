@@ -46,13 +46,15 @@ Ao observar as quatro imagens que representam as métricas de degree centrality,
 - **Betweenness centrality:** Indica a importância de um nó na comunicação entre outros nós, identificando quantos caminhos passam por ele.
 - **Eigenvector centrality:** Atribui importância aos nós com base na qualidade das conexões que possuem, levando em consideração a relevância dos nós aos quais estão conectados.
 
-Ao analisar os dados e as imagens abaixo, destacamos que, no degree centrality, os nós mais conectados, como petroleum, são evidenciados. No closeness centrality, identificamos os nós mais proeminentes, como Shale, Orlen e Oxide. O eigenvector centrality fornece informações sobre a importância de cada nó com base na qualidade de suas conexões, destacando nós como Lukoi, Oil Refinery e Petroleum em tons mais avermelhados. Por fim, o betweenness centrality revela a importância de um nó para a navegação entre outros na rede, sendo exemplificado por petroleum e carbon dioxide como os mais cruciais.
+Ao analisar os dados e as imagens abaixo, destacamos que, no degree centrality, os nós com maior *in degree*, como petroleum, são evidenciados. Esses nós pertencem ao grupo de páginas que possuem muitos links apontando para elas. No closeness centrality, identificamos os nós mais proeminentes, como *Shale*, *Orlen* e Oxide que acabam ficando mais próxima dos nós da rede. Na prática, isso significa que não precisamos navegar muito tempo no Wikipedia para alcançá-los, desde que as páginas pesquisadas sejam relacionadas aos temas considerados por nós neste trabalho. O eigenvector centrality fornece informações sobre a importância de cada nó com base na qualidade de suas conexões, destacando nós como *Lukoi*, Oil Refinery e Petroleum em tons mais avermelhados. Esses, quando comparado aos outros, possuem como vizinhos as páginas que mais caracterizam os temas pesquisados na rede. Por fim, o *betweenness* centrality revela a importância de um nó para a navegação entre outros na rede, sendo exemplificado por petroleum e carbon dioxide como os mais cruciais. Ou seja, caso você queira navegar de uma página a outra relacionada a esse tema, é muito provável que você passe por uma dessas páginas.
 
 ![Centralities](./assets/imgs/centralities.png)
 
 ## Requisito 3
 
-.......
+Ao examinar o gráfico, observe que as barras verticais em azul denotam a quantidade de conexões, enquanto a curva em vermelho representa a Função de Densidade de Probabilidade Cumulativa (FDP), à direita, e a Função de Densidade de Probabilidade, à esquerda. Há uma predominância de conexões de baixo grau, indicando uma quantidade elevada, contrastando com a presença de elementos mais relevantes (graus maiores) em menor quantidade.
+
+Observando a Função Densidade de Probabilidade (FDP), concluímos que na base de dados utilizada de links da Wikipedia, há poucas páginas sobre os temas pesquisados que concentram um grande número de links direcionados a elas. Logo, essas páginas emergem como as mais relevantes dentro desses tópicos, como evidenciado pelo exemplo da indústria do petróleo, onde a probabilidade de escolher um nó de indegree alto é abaixo de 2%, enquanto para indegrees entre 0 e 50, as probabilidades ultrapassam 10%, sugerindo maior relevância.
 
 ![PDF e CDF](./assets/imgs/cdf-pdf.png)
 
