@@ -39,6 +39,8 @@ Nessa representação, os nós são páginas do Wikipedia e as arestas são os l
 
 Ernane vai explicar tudo direitinho
 
+> O algoritmo utilizado para montar a layout da rede foi o OpenOrd. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu
+
 ![Centralities](./assets/imgs/centralities.png)
 
 ## Requisito 3
@@ -49,17 +51,17 @@ Ernane vai explicar tudo direitinho
 
 ## Requisito 4
 
-Ernane vai explicar tudo direitinho
+Na teoria de grafos, o k-core é o subconjunto de nós que possuem pelo menos grau k. Então, por exemplo, o 0-core contém todos os nós da rede, o 1-core contém os nós com pelo menos um vizinho, e assim sucessivamente. O k-shell, resumidamente, representa o subconjunto de nós removidos para alcançar o próximo k-core. A última camada da rede é o último k-core. Abaixo estão apresentados o k-core e o k-shell da rede construída.
 
 ![K-core e K-shell](./assets/imgs/layers.png)
 
+A figura acima sugere uma interepretação interessante: o núcleo da nossa rede é um grafo fechado em que seus vértices possuem pelo menos grau 311, e há um único nó que se posiciona entre o 177-core e o 311-core. Esse único nó compõe o 177-shell da rede.
+
 ## Requisito 5
 
-Ernane vai explicar tudo direitinho
-
-- https://raphaelramosds.github.io/netdeploy/
+A rede construída está em produção no seguinte endereço [Wikipedia Network](https://raphaelramosds.github.io/netdeploy/)
 
 ## Artefatos
 
-- Implementações
-- Vídeo
+- [![Implementações](https://img.shields.io/badge/-Diretório-191A1B?style=flat-square&logo=files)](./Week%2012%20-%20Assignment.ipynb) Implementações
+- [![Video](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)]() Explicação geral
