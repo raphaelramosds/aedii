@@ -22,9 +22,18 @@ relacionadas ao critério de comunidade e o tamanho do vértice a métrica in-de
 
 ## Requisito 1
 
-Ernane vai explicar tudo direitinho
+As quatro páginas iniciais escolhidas para a construção da rede do trabalho estão relacionadas às indústrias do petróleo, gás e energias renováveis. Elas foram
+
+- [Carbon and capture storage](https://en.wikipedia.org/wiki/Carbon_capture_and_storage)
+- [Mud logging](https://en.wikipedia.org/wiki/Mud_logging)
+- [Oil well](https://en.wikipedia.org/wiki/Oil_well)
+- [Petroleum](https://en.wikipedia.org/wiki/Petroleum_geology)
+
+Utilizou-se o algoritmo de *scraping* apresentado na [Week 11](../week-11/Wikipedia.ipynb) para transformar essas páginas do Wikipedia em uma rede direcionada e, após usar rotinas do NetworkX para uni-las em uma única rede, utilizou-se o *software* Gephi para criar uma visualização dela, como mostrado abaixos
 
 ![Network](./assets/imgs/network.png)
+
+Nessa representação, os nós são páginas do Wikipedia e as arestas são os links entre as páginas. Como é possível ver, duas estratégias foram utilizadas para essa representação: as cores dos nós  são relacionadas ao critério de comunidade e o tamanho deles à métrica in-degree. Dessa forma, é possível ver na figura que algumas páginas são mais citadas pelas outras, como Petroleum, Petroleum Industry e Oil Refiney, por causa do seu in-degree alto.
 
 ## Requisito 2
 
