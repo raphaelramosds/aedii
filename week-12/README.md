@@ -37,15 +37,22 @@ Nessa representação, os nós são páginas do Wikipedia e as arestas são os l
 
 ## Requisito 2
 
-Ernane vai explicar tudo direitinho
+> O algoritmo utilizado para montar a layout das redes abaixo foi o `OpenOrd`. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu, em comparação a representação apresentada no Requisito 1.
 
-> O algoritmo utilizado para montar a layout das redes abaixo foi o OpenOrd. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu, em comparação a representação apresentada no Requisito 1
+Ao observar as quatro imagens que representam as métricas de degree centrality, closeness centrality, betweenness centrality e eigenvector centrality, torna-se evidente a necessidade de compreender o significado de cada elemento:
+
+- **Degree centrality:** Mede o número de conexões diretas de um nó na rede.
+- **Closeness centrality:** Avalia a proximidade de um nó em relação aos demais, considerando o comprimento médio dos caminhos mais curtos.
+- **Betweenness centrality:** Indica a importância de um nó na comunicação entre outros nós, identificando quantos caminhos passam por ele.
+- **Eigenvector centrality:** Atribui importância aos nós com base na qualidade das conexões que possuem, levando em consideração a relevância dos nós aos quais estão conectados.
+
+Ao analisar os dados e as imagens abaixo, destacamos que, no degree centrality, os nós mais conectados, como petroleum, são evidenciados. No closeness centrality, identificamos os nós mais proeminentes, como Shale, Orlen e Oxide. O eigenvector centrality fornece informações sobre a importância de cada nó com base na qualidade de suas conexões, destacando nós como Lukoi, Oil Refinery e Petroleum em tons mais avermelhados. Por fim, o betweenness centrality revela a importância de um nó para a navegação entre outros na rede, sendo exemplificado por petroleum e carbon dioxide como os mais cruciais.
 
 ![Centralities](./assets/imgs/centralities.png)
 
 ## Requisito 3
 
-Ernane vai explicar tudo direitinho
+.......
 
 ![PDF e CDF](./assets/imgs/cdf-pdf.png)
 
