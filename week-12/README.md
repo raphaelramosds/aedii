@@ -71,4 +71,4 @@ A rede construída está em produção no seguinte endereço [Wikipedia Network]
 ## Artefatos
 
 - [![Implementações](https://img.shields.io/badge/-Diretório-191A1B?style=flat-square&logo=files)](./Week%2012%20-%20Assignment.ipynb) Implementações.
-- [![Vídeo](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](..) Explicação geral
+- [![Vídeo](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://youtu.be/7uNocf_2TSM) Explicação geral
