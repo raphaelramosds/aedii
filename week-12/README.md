@@ -35,7 +35,7 @@ Nessa representação, os nós são páginas do Wikipedia e as arestas são os l
 
 ## Requisito 2
 
-> O algoritmo utilizado para montar a layout das redes abaixo foi o `OpenOrd`. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu, em comparação a representação apresentada no Requisito 1.
+> O algoritmo utilizado para montar a layout das redes abaixo foi o OpenOrd. No momento em que ele foi aplicado, notou-se que, durante as iterações, ele acabou sobrepondo nós com tamanhos maiores. Dessa forma, as representações abaixo podem dar a impressão que nossa rede diminuiu, em comparação a representação apresentada no Requisito 1.
 
 Ao observar as quatro imagens que representam as métricas de degree centrality, closeness centrality, betweenness centrality e eigenvector centrality, torna-se evidente a necessidade de compreender o significado de cada elemento:
 
