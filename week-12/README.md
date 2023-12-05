@@ -39,10 +39,10 @@ Nessa representação, os nós são páginas do Wikipedia e as arestas são os l
 
 Ao observar as quatro imagens que representam as métricas de degree centrality, closeness centrality, betweenness centrality e eigenvector centrality, torna-se evidente a necessidade de compreender o significado de cada elemento:
 
-- **Degree centrality:** Mede o número de conexões diretas de um nó na rede.
-- **Closeness centrality:** Avalia a proximidade de um nó em relação aos demais, considerando o comprimento médio dos caminhos mais curtos.
-- **Betweenness centrality:** Indica a importância de um nó na comunicação entre outros nós, identificando quantos caminhos passam por ele.
-- **Eigenvector centrality:** Atribui importância aos nós com base na qualidade das conexões que possuem, levando em consideração a relevância dos nós aos quais estão conectados.
+- **Degree centrality:** mede o número de conexões diretas de um nó na rede
+- **Closeness centrality:** avalia a proximidade de um nó em relação aos demais, considerando o comprimento médio dos caminhos mais curtos
+- **Betweenness centrality:** indica a importância de um nó na comunicação entre outros nós, identificando quantos caminhos passam por ele
+- **Eigenvector centrality:** atribui importância aos nós com base na qualidade das conexões que possuem, levando em consideração a relevância dos nós aos quais estão conectados
 
 Ao analisar os dados e as imagens abaixo, destacamos que, no degree centrality, os nós com maior *in degree*, como petroleum, são evidenciados. Esses nós pertencem ao grupo de páginas que possuem muitos links apontando para elas. No closeness centrality, identificamos os nós mais proeminentes, como *Shale*, *Orlen* e Oxide que acabam ficando mais próxima dos nós da rede. Na prática, isso significa que não precisamos navegar muito tempo no Wikipedia para alcançá-los, desde que as páginas pesquisadas sejam relacionadas aos temas considerados por nós neste trabalho. O eigenvector centrality fornece informações sobre a importância de cada nó com base na qualidade de suas conexões, destacando nós como *Lukoi*, Oil Refinery e Petroleum em tons mais avermelhados. Esses, quando comparado aos outros, possuem como vizinhos as páginas que mais caracterizam os temas pesquisados na rede. Por fim, o *betweenness* centrality revela a importância de um nó para a navegação entre outros na rede, sendo exemplificado por petroleum e carbon dioxide como os mais cruciais. Ou seja, caso você queira navegar de uma página a outra relacionada a esse tema, é muito provável que você passe por uma dessas páginas.
 
