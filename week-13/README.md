@@ -1,6 +1,3 @@
-Claro, você pode incorporar as imagens diretamente no seu arquivo README usando a marcação de imagem do Markdown. Aqui está uma versão editada do seu README com as imagens incorporadas:
-
-```markdown
 # Week 13 
 
 ## Tourist Route Optimization in Cities with Multiple Attractions
@@ -84,6 +81,3 @@ This project's code is based on the work available at [Conquering Seven Hills: R
 ---
 
 - [Assignment](https://colab.research.google.com/drive/15ic0w4d44vR3cYeJKV2gTtpjIrgKUA39?usp=drive_link)
-```
-
-Lembre-se de ajustar os caminhos das imagens conforme necessário, dependendo da estrutura de diretórios do seu projeto.
