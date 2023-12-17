@@ -35,6 +35,12 @@ The goal of this project is to optimize a tourist route in a city with multiple 
 5. **Visualization of the Optimized Route:**
    - Provides a visual representation of the optimized tourist route.
 
+### Selected Route for Analysis:
+
+The route selected for analysis covers the following attractions: Catedral Metropolitana, Museu Câmara Cascudo, Teatro Alberto Maranhão, Arena das Dunas, and Centro de Turismo.
+
+<img src="assets/route.png" alt="Selected Route" width="600"/>
+
 ### Expected Results:
 
 - An optimized tourist route that offers an efficient and enjoyable experience for visitors.
@@ -50,34 +56,17 @@ This project's code is based on the work available at [Conquering Seven Hills: R
 
 ## Optimized Route and Results:
 
-### Base Parameters:
-- **Cost x Iteration x Temperature:**
-  ![Cost x Iteration x Temperature](assets/base_adjustment/cost_iteration_temperature.png)
-- **Cost change x Temperature x Probability:**
-  ![Cost change x Temperature x Probability](assets/base_adjustment/cost_change_temperature_probability.png)
+| Base Parameters                             | Conservative Adjustment                      |
+|---------------------------------------------|-----------------------------------------------|
+| ![Base Parameters](assets/base_adjustment/base_parameters_only_temperature.png) | ![Conservative Adjustment](assets/conservative_adjustment/conservative_adjustment_temperature.png) |
 
-### Conservative Adjustment:
-- **Cost x Iteration x Temperature:**
-  ![Cost x Iteration x Temperature](assets/conservative_adjustment/cost_iteration_temperature.png)
-- **Cost change x Temperature x Probability:**
-  ![Cost change x Temperature x Probability](assets/conservative_adjustment/cost_change_temperature_probability.png)
-
-### Moderate Adjustment:
-- **Cost x Iteration x Temperature:**
-  ![Cost x Iteration x Temperature](assets/moderate_adjustment/cost_iteration_temperature.png)
-- **Cost change x Temperature x Probability:**
-  ![Cost change x Temperature x Probability](assets/moderate_adjustment/cost_change_temperature_probability.png)
-
-### Aggressive Tuning:
-- **Cost x Iteration x Temperature:**
-  ![Cost x Iteration x Temperature](assets/aggressive_tuning/cost_iteration_temperature.png)
-- **Cost change x Temperature x Probability:**
-  ![Cost change x Temperature x Probability](assets/aggressive_tuning/cost_change_temperature_probability.png)
+| Moderate Adjustment                           | Aggressive Tuning                            |
+|-----------------------------------------------|---------------------------------------------|
+| ![Moderate Adjustment](assets/moderate_adjustment/moderate_Adjustment_temperature.png) | ![Aggressive Tuning](assets/agressive_tuning/aggressive_tuning_temperature.png) |
 
 ---
 
-## View the optimized route and results.
+To access the code produced for this project, you can visit the [Assignment](https://colab.research.google.com/drive/15ic0w4d44vR3cYeJKV2gTtpjIrgKUA39?usp=drive_link) on Google Colab.
 
 ---
 
-- [Assignment](https://colab.research.google.com/drive/15ic0w4d44vR3cYeJKV2gTtpjIrgKUA39?usp=drive_link)
