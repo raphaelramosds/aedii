@@ -58,7 +58,7 @@ This project's code is based on the work available at [Conquering Seven Hills: R
 
 | Base Parameters                             | Conservative Adjustment                      |
 |---------------------------------------------|-----------------------------------------------|
-| ![Base Parameters](assets/base_adjustment/base_parameters_only_temperature.png) | ![Conservative Adjustment](assets/conservative_adjustment/conservative_adjustment_temperature.png) |
+| ![Base Parameters](assets/base_adjustment/base_parameters_temperature.png) | ![Conservative Adjustment](assets/conservative_adjustment/conservative_adjustment_temperature.png) |
 
 | Moderate Adjustment                           | Aggressive Tuning                            |
 |-----------------------------------------------|---------------------------------------------|
