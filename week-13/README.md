@@ -1,3 +1,6 @@
+Claro, você pode incorporar as imagens diretamente no seu arquivo README usando a marcação de imagem do Markdown. Aqui está uma versão editada do seu README com as imagens incorporadas:
+
+```markdown
 # Week 13 
 
 ## Tourist Route Optimization in Cities with Multiple Attractions
@@ -42,16 +45,45 @@ The goal of this project is to optimize a tourist route in a city with multiple 
 
 ---
 
-## Code:
+## Acknowledgment:
 
-```python
-# (Your provided code goes here)
-```
+This project's code is based on the work available at [Conquering Seven Hills: Route Optimization with SA](https://omyllymaki.medium.com/conquering-seven-hills-route-optimization-with-sa-d96ace682e2c). We appreciate the valuable reference provided by this source.
 
 ---
 
-4. View the optimized route and results.
+## Optimized Route and Results:
+
+### Base Parameters:
+- **Cost x Iteration x Temperature:**
+  ![Cost x Iteration x Temperature](assets/base_adjustment/cost_iteration_temperature.png)
+- **Cost change x Temperature x Probability:**
+  ![Cost change x Temperature x Probability](assets/base_adjustment/cost_change_temperature_probability.png)
+
+### Conservative Adjustment:
+- **Cost x Iteration x Temperature:**
+  ![Cost x Iteration x Temperature](assets/conservative_adjustment/cost_iteration_temperature.png)
+- **Cost change x Temperature x Probability:**
+  ![Cost change x Temperature x Probability](assets/conservative_adjustment/cost_change_temperature_probability.png)
+
+### Moderate Adjustment:
+- **Cost x Iteration x Temperature:**
+  ![Cost x Iteration x Temperature](assets/moderate_adjustment/cost_iteration_temperature.png)
+- **Cost change x Temperature x Probability:**
+  ![Cost change x Temperature x Probability](assets/moderate_adjustment/cost_change_temperature_probability.png)
+
+### Aggressive Tuning:
+- **Cost x Iteration x Temperature:**
+  ![Cost x Iteration x Temperature](assets/aggressive_tuning/cost_iteration_temperature.png)
+- **Cost change x Temperature x Probability:**
+  ![Cost change x Temperature x Probability](assets/aggressive_tuning/cost_change_temperature_probability.png)
+
+---
+
+## View the optimized route and results.
 
 ---
 
 - [Assignment](https://colab.research.google.com/drive/15ic0w4d44vR3cYeJKV2gTtpjIrgKUA39?usp=drive_link)
+```
+
+Lembre-se de ajustar os caminhos das imagens conforme necessário, dependendo da estrutura de diretórios do seu projeto.
