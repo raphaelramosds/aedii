@@ -82,12 +82,17 @@ Significant disparities were observed in the optimized routes and total distance
 
 The outcomes suggest that fine-tuning the parameters can substantially impact the quality of the solution produced by the optimizer. Higher values of max_iter and max_iter_without_improvement allowed for a more extensive exploration, leading to solutions with reduced total distances. However, it's crucial to note that increasing these values may also result in longer execution times. Therefore, the choice of parameters should be guided by a thoughtful consideration of the trade-off between solution quality and computational efficiency, tailored to the specific requirements of the given problem.
 
-# Result
+## Result
 
 Based on the discussions above we've selected the route with the minimum cost for displaying on this document. It can be visualized below
 
 <img src="assets/route.png" alt="Selected Route" width="600"/>
 
 Notice that, at first glance, it's a weird route because we do not see a cyclic blue countour from our source (Arena das Dunas) to the destination (Arena das dunas). That's happened because, as it's clear, this route travels on a two-way highway along all the path.
+
+## Artifacts
+
+- [![Jupyter](https://img.shields.io/badge/-Notebook-191A1B?style=flat-square&logo=jupyter)](https://colab.research.google.com/drive/15ic0w4d44vR3cYeJKV2gTtpjIrgKUA39?usp=sharing) Assignment implementation
+- [![Open in Loom](https://img.shields.io/badge/-Video-83DA77?style=flat-square&logo=loom)](https://youtu.be/P0MluroRKIE) Video explanation
 
 
