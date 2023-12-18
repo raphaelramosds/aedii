@@ -72,19 +72,15 @@ Below you can find the results of four experiments that were executed in order t
 
 Significant disparities were observed in the optimized routes and total distances covered across various parameter configurations. Each parameter setting in terms of max_iter and max_iter_without_improvement resulted in a distinct route, underscoring the influence of these values on the quest for the optimal solution. The alterations in parameters noticeably impacted the quality of the solutions, as evidenced by variations in the total distances traveled. Specifically:
 
-- **Base Parameters:** the route obtained was [3, 2, 0, 4, 1, 3] with a total distance of 15.345993.
-- **Conservative Adjustment:** the optimized route changed to [3, 1, 0, 4, 2, 3] with a total distance of 15.534664.
-- **Moderate Adjustment:** the resulting route was [3, 4, 2, 0, 1, 3] with a reduced total distance of 14.326883.
-- **Aggressive Tuning:** the most optimized route was [3, 0, 2, 4, 2, 3] with the smallest total distance of 14.119251.
+- **Base Parameters:** the route obtained was [3, 2, 0, 4, 1, 3] with a total distance of 15.345993. There are few and spaced points on the graph suggest limited exploration, potentially leading to suboptimal solutions, as indicated by the relatively high total distance.
+
+- **Conservative Adjustment:** the optimized route changed to [3, 1, 0, 4, 2, 3] with a total distance of 15.534664. Notice the presence of points with varying shades of blue and red suggests a more balanced exploration of the solution space. The higher quantity of red points may indicate a more intense exploration locally.
+
+- **Moderate Adjustment:** the resulting route was [3, 4, 2, 0, 1, 3] with a reduced total distance of 14.326883. The presence of paced particles on the plot may indicate a more extensive exploration of the solution space. The presence of points between -2 and 5 suggests a broader search, enabling the discovery of higher-quality solutions.
+
+- **Aggressive Tuning:** the most optimized route was [3, 0, 2, 4, 2, 3] with the smallest total distance of 14.119251. It's noticeable the significant number of points with blue, violet, and red shades, concentrated between 0 and 6. It may suggests an intensive and extensive exploration of the solution space. This resulted in the lowest total distance, indicating a more optimized solution.
 
 The outcomes suggest that fine-tuning the parameters can substantially impact the quality of the solution produced by the optimizer. Higher values of max_iter and max_iter_without_improvement allowed for a more extensive exploration, leading to solutions with reduced total distances. However, it's crucial to note that increasing these values may also result in longer execution times. Therefore, the choice of parameters should be guided by a thoughtful consideration of the trade-off between solution quality and computational efficiency, tailored to the specific requirements of the given problem.
-
-Based on the analysis of the "Cost change x Probability x Temperature" graph and the outcomes of the optimized routes, several conclusions can be drawn:
-
-- **Base Parameters:** few and spaced points on the graph suggest limited exploration, potentially leading to suboptimal solutions, as indicated by the relatively high total distance.
-- **Conservative Adjustment:** presence of points with varying shades of blue and red suggests a more balanced exploration of the solution space. The higher quantity of red points may indicate a more intense exploration locally.
-- **Moderate Adjustment:** spaced points may indicate a more extensive exploration of the solution space. The presence of points between -2 and 5 suggests a broader search, enabling the discovery of higher-quality solutions.
-- **Aggressive Tuning:** a significant number of points with blue, violet, and red shades, concentrated between 0 and 6, suggests an intensive and extensive exploration of the solution space. This resulted in the lowest total distance, indicating a more optimized solution.
 
 # Result
 
